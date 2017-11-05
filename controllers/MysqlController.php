@@ -30,6 +30,7 @@ class MysqlController extends Controller
         echo $total."  秒";
     }
     public function actionTest(){
+
         echo "121";
     }
     // 生成百万数据
